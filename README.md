@@ -8,5 +8,3 @@ expected result :
 sample_landmark_output.png
 
 
-
-![image](https://user-images.githubusercontent.com/46427918/143481396-ab2d50ed-781c-4c79-979c-29208bd4e59c.png)
