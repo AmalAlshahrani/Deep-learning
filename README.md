@@ -1,7 +1,8 @@
 # Deep-learning project
 This project will be about building the neural network which classifies the landmarks images into 5 categories (building, sea, street, glacier, mountain)
 The workflow of entire project goes through 
--	Making the base line of neural network  
+
+
 
 -	Building the Convolutional neural network      -       (In -progress )
 -	Testing the model on unable dataset to ensure if the model can be classifying the images according to its categories or not!
